@@ -32,7 +32,7 @@ def len_I():
     return len_I
 # len_I()
 def ingredient():
-    
+
 # for dish in cook_book:
 #   print(f"{dish[0]}: ".capitalize())
 #   for meal in dish[1]:
